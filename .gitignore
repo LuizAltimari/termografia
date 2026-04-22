@@ -1,0 +1,31 @@
+# Ambiente virtual
+dl-env/
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Build / distribuição
+build/
+dist/
+*.egg-info/
+
+# Dados
+dados/
